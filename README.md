@@ -5,3 +5,7 @@
  
 2.How to execute?<br>
  run "aciton.py".
+ 
+3.Required Versions<br>
+ python 3.6.x
+ pygame 1.9.3
