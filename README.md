@@ -10,4 +10,4 @@
  python 3.6.x<br>
  pygame 1.9.3
  
-https://github.com/zAwAt/Sample-Of-Loading-Map-For-Pygame/blob/Media/media/bandicam-2019-01-21-21-47-38-671.gif
+![demo]https://github.com/zAwAt/Sample-Of-Loading-Map-For-Pygame/blob/Media/media/bandicam-2019-01-21-21-47-38-671.gif
