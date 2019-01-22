@@ -6,7 +6,11 @@
 2.How to execute?<br>
  run "aciton.py".
  
-3.Required Versions<br>
+3.How to play?
+ Arrow:move
+ Space:jump
+ 
+4.Required Versions<br>
  python 3.6.x<br>
  pygame 1.9.3
  
