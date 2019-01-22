@@ -6,9 +6,9 @@
 2.How to execute?<br>
  run "aciton.py".
  
-3.How to play?
- Arrow:move
- Space:jump
+3.How to play?<br>
+ Arrow:move<br>
+ Space:jump<br>
  
 4.Required Versions<br>
  python 3.6.x<br>
